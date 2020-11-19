@@ -48,6 +48,8 @@ $gamer[3] = "Bezdomovec2000";
 $gamer[4] = "legendarySucc_er";
 $gamer[5] = "Gucciganger";
 
+/* to co se bude vypisovat, mohu changenout jak se zlíbí */
+
 $array[0]['Nick'] = $gamer[0];
 $array[0]['Game'] = $gamename[5];
 $array[0]['Genre'] = $genre[3];
