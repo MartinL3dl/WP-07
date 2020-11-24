@@ -97,32 +97,5 @@ foreach ($array[1] as $b => $b_value) {
 } ?>
 <br>
 
-<?php
-foreach ($array[2] as $c => $c_value) {
-  echo $c . ":" . $c_value;
-  echo "<br>";
-} ?>
-<br>
-
-<?php
-foreach ($array[3] as $d => $d_value) {
-  echo $d . ":" . $d_value;
-  echo "<br>";
-} ?>
-<br>
-
-<?php
-foreach ($array[4] as $e => $e_value) {
-  echo $e . ":" . $e_value;
-  echo "<br>";
-} ?>
-<br>
-
-<?php
-foreach ($array[5] as $f => $f_value) {
-  echo $f . ":" . $f_value;
-  echo "<br>";
-} ?>
-<br>
   </body>
 </html>
